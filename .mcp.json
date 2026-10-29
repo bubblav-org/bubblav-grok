@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "bubblav": {
+      "type": "http",
+      "url": "https://www.bubblav.com/mcp"
+    }
+  }
+}
